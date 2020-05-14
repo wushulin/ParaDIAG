@@ -8,7 +8,9 @@ on China Tianhe-1 supercomputer, which is a multi-array, configurable and cooper
 of high performance general-purpose microprocessors and a high-speed Infiniband network. 
 
 Further information about Codes of ParaDIAG is
+
 License:  MIT
+
 Developers: Jun Liu (juliu@siue.edu)
             Shu-Lin Wu (wushulin84@hotmail.com)
             Xiaoqiang Yue (yuexq@xtu.edu.cn)
