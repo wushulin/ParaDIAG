@@ -11,8 +11,4 @@ Further information about Codes of ParaDIAG is
 
 License:  MIT
 
-Developers: Jun Liu (juliu@siue.edu)
-
-            Shu-Lin Wu (wushulin84@hotmail.com)
-            
-            Xiaoqiang Yue (yuexq@xtu.edu.cn)
+Developers: Jun Liu (juliu@siue.edu), Shu-Lin Wu (wushulin84@hotmail.com), Xiaoqiang Yue (yuexq@xtu.edu.cn)
