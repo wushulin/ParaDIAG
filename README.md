@@ -14,7 +14,7 @@ If you used the same technique in other applications, we would be happy to add y
 
 - Parallel Codes.zip: parallel Fortran codes for the ParaDiag-II-Waveform Relaxation (WR) Variant
 
-# Citing reference
+# Citing reference (Please cite our work if it has benefited your research in someway)
 - Gander, Martin J., Jun Liu, Shu-Lin Wu, Xiaoqiang Yue, and Tao Zhou. 
 "[ParaDiag: Parallel-in-Time Algorithms Based on the Diagonalization Technique.](https://arxiv.org/abs/2005.09158)" arXiv preprint arXiv:2005.09158 (2020).
 
@@ -30,7 +30,8 @@ If you used the same technique in other applications, we would be happy to add y
 # Licence Information: 
 
 This library is free software. 
-It can be redistributed and/or modified under the terms of the (MIT License)[https://opensource.org/licenses/MIT].
+It can be redistributed and/or modified under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
