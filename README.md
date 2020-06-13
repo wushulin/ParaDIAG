@@ -1,6 +1,6 @@
-# ParaDIAG
-ParaDIAG is a class of Parallel-in-Time (PinT) algorithms based on the diagonalization technique. 
-ParaDIAG can handle both the dissipative problems (e.g., the advection-diffusion equations),
+# ParaDiag
+ParaDiag is a class of Parallel-in-Time (PinT) algorithms based on the diagonalization technique. 
+ParaDiag can handle both the dissipative problems (e.g., the advection-diffusion equations),
 the purely wave equations (e.g., the acoustic equation), and optimal control of wave equations.
 If you used the same technique in other applications, we would be happy to add your codes to this list.
 
@@ -16,7 +16,7 @@ If you used the same technique in other applications, we would be happy to add y
 
 # Citing reference
 - Gander, Martin J., Jun Liu, Shu-Lin Wu, Xiaoqiang Yue, and Tao Zhou. 
-"[ParaDIAG: Parallel-in-Time Algorithms Based on the Diagonalization Technique.](https://arxiv.org/abs/2005.09158)" arXiv preprint arXiv:2005.09158 (2020).
+"[ParaDiag: Parallel-in-Time Algorithms Based on the Diagonalization Technique.](https://arxiv.org/abs/2005.09158)" arXiv preprint arXiv:2005.09158 (2020).
 
 # Current developers
 - [Dr. Jun Liu](https://junliu2050.github.io/)
