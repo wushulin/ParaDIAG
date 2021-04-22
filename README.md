@@ -11,9 +11,11 @@ If you used the same technique in other applications, we would be happy to add y
 - ParaDIAG_V2_Parareal_for_ADE.m: the advection-diffusion equation by ParaDiag-II-Parareal Variant
 - ParaDIAG_V2_GMRES_LinearWave_2D.m : the 2D wave equation by ParaDiag-II preconditioned GMRES
 - ParaDIAG_V2_GMRES_LinearWaveOPT_2D.m: the optimal control of the wave equation by ParaDiag-II preconditioned GMRES
-
+- ParaDIAG_V1_Hybrid_for_ADE.m: this the MATLAB code used for testing the new direct PinT algorithm (a newly updated material in Section 2.1.2)
+- 
 - Parallel Codes.zip: parallel Fortran codes for the ParaDiag-II-Waveform Relaxation (WR) Variant
-
+- ParaDIAG_V1_Hybrid_for_Wave.c: parallel codes based on C language for testing the new direct PinT algorithm (a newly updated material in Section 2.1.2)
+- 
 # Citing reference (Please cite our work if appropriate)
 - Gander, Martin J., Jun Liu, Shu-Lin Wu, Xiaoqiang Yue, and Tao Zhou. 
 "[ParaDiag: Parallel-in-Time Algorithms Based on the Diagonalization Technique.](https://arxiv.org/abs/2005.09158)" arXiv preprint arXiv:2005.09158 (2020).
