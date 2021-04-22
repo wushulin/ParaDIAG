@@ -17,7 +17,7 @@ If you used the same technique in other applications, we would be happy to add y
 - ParaDIAG_V1_Hybrid_for_Wave.c: parallel codes based on C language for testing the new direct PinT algorithm (a newly updated material in Section 2.1.2)
 
 # Citing reference (Please cite our work if appropriate)
-- Gander, Martin J., Jun Liu, Shu-Lin Wu, Xiaoqiang Yue, and Tao Zhou. 
+- Martin J. Gander,  Jun Liu , Shu-Lin Wu, Xiaoqiang Yue, and Tao Zhou. 
 "[ParaDiag: parallel-in-time algorithms based on the diagonalization technique.](https://arxiv.org/abs/2005.09158)" arXiv preprint arXiv:2005.09158 (2021).
 
 # Current developers
